@@ -60,6 +60,10 @@ footer a {
   padding: 15px;
 }
 
+.search-form-button:hover {
+  cursor: pointer;
+}
+
 .weather-app-data {
   /* container around data, grid */
   display: flex;
