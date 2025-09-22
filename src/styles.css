@@ -128,10 +128,12 @@ footer a {
 }
 
 .weather-forecast-icon {
+  background-color: rgba(39, 33, 66, 0.2);
+  border-radius: 50%;
   display: block;
   margin: 0 auto;
-  width: 65px;
   height: 65px;
+  width: 65px;
 }
 
 .weather-forecast-temperatures {
